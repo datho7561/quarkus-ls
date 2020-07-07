@@ -9,6 +9,9 @@
 *******************************************************************************/
 package com.redhat.microprofile.model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * The property value node
  * 
